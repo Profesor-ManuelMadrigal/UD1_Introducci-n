@@ -1,6 +1,5 @@
 Aquí te dejo un ejemplo de una **página en Markdown** que explica el desarrollo de una aplicación en **WPF (Windows Presentation Foundation)**. Markdown es un lenguaje muy sencillo para crear documentos de texto con formato, ideal para blogs técnicos, documentación o repositorios como GitHub.
 
-```markdown
 # Desarrollo de una Aplicación en WPF
 
 ## Introducción
@@ -28,7 +27,6 @@ Para comenzar a desarrollar aplicaciones WPF, necesitarás los siguientes compon
 
 ![Creación de proyecto en Visual Studio](ruta-a-tu-imagen)
 
----
 
 ## Paso 2: Estructura del proyecto
 
